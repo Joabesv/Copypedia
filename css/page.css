@@ -42,3 +42,8 @@ a:not(:hover) {
   text-align: center;
   padding: 12px;
 }
+
+.copyright:hover {
+  color: #8363e6;
+  text-decoration: none;
+} 
